@@ -58,7 +58,7 @@ button{
 @media (min-width: 1120px) {
    main{
     margin-top: 9rem;
-    flex-direction: row;
+    flex-direction:row;
     max-width: fit-content;
     gap: 16rem;
     padding: 9rem 6rem;
